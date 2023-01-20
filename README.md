@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirajsonaje
-- 🌱 I’m currently learning JAVA AND SPRINGBOOT
+- 🌱 I’m currently learning JAVA , SPRINGBOOT ,AWS,DOCKER ,PYTHON
 
 
 <!---
