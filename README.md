@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @nirajsonaje
 - 🌱 I’m currently learning JAVA , SPRINGBOOT ,AWS,DOCKER ,PYTHON
+- Interest in Microservices ,REST API
+- JENKINS CI/CD
 
 
 <!---
